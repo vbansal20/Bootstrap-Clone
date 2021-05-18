@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+.nav-item{
+    color: white;
+}
+.main-heading {
+    padding: 20px;
+    margin-bottom: 5cm;
+}
+.text{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.display-4{
+    font-weight: bold;
+}
+.intro-text{
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.carddiv {
+    margin: top 2px;
+    padding: 20px;
+}
+
+.accordians{
+    padding: 20px;
+}
+.splcard{
+    padding: 20px;
+}
+.feedback{
+    padding: 20px;
+    align-content: center;
+    align-items: center;
+}
