@@ -1,2 +1,2 @@
 # Bootstrap-clone
-Responsive bootstrap clone is created using HTML, CSS, JS and Bootstrap.
+Responsive Bootstrap's official website clone created using HTML, CSS, JS and Bootstrap.
